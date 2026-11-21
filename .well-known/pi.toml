@@ -1,1 +1,6 @@
-.well-known/pi.toml
+[[CURRENCIES]]
+code = "PiTi"
+issuer = "GAUARTP3OHVSQYIJBGM2WJOIMHVNF3C2KOAPVX7I4YAYZH3L7GPG723T"
+name = "PiTwin"
+desc = "PiTwin Testnet ecosystem token"
+image = "https://twinversegaushen.github.io/PiTwin-token/piti-logo.png"
